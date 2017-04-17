@@ -64,7 +64,8 @@ margin-top: 5px;
 }
 ul{
 margin: auto;
-padding-top: 4px;
+padding-top: 3px;
+margin-bottom: 20px;
 }
 
 li{ 
@@ -72,7 +73,7 @@ li{
 	list-style-type: none;
 	padding: 10px;
 	background: orange;
-	margin: 3px;
+	margin:3px;
 	border-radius: 10px;
 	box-shadow: 0 0 20px white inset; 
 
@@ -92,7 +93,7 @@ aside{
 	background: rgba(0, 88, 131, 1);
 	height: auto;
 	float: left;
-	margin-left: 10px;
+	margin-left: 20px;
 	margin-top: 20px;
 	border-radius: 10px;
 }
@@ -115,6 +116,8 @@ p{
 	padding: 10px;
 	text-align: justify;
 	color: white;
+	margin-left: 10px;
+	margin-right: 10px;
 }
 
 
